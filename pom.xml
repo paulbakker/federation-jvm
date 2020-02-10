@@ -7,7 +7,7 @@
     <groupId>com.apollographql.federation</groupId>
     <artifactId>federation-parent</artifactId>
     <name>federation-parent</name>
-    <version>0.3.3-SNAPSHOT</version>
+    <version>0.3.3.NF-SNAPSHOT</version>
     <packaging>pom</packaging>
 
     <url>https://github.com/apollographql/federation-jvm</url>
